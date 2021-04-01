@@ -1,0 +1,7 @@
+D:\C#Console\chap19Enumeration\bin\Debug\chap19Enumeration.exe.config
+D:\C#Console\chap19Enumeration\bin\Debug\chap19Enumeration.exe
+D:\C#Console\chap19Enumeration\bin\Debug\chap19Enumeration.pdb
+D:\C#Console\chap19Enumeration\obj\Debug\chap19Enumeration.csprojAssemblyReference.cache
+D:\C#Console\chap19Enumeration\obj\Debug\chap19Enumeration.csproj.CoreCompileInputs.cache
+D:\C#Console\chap19Enumeration\obj\Debug\chap19Enumeration.exe
+D:\C#Console\chap19Enumeration\obj\Debug\chap19Enumeration.pdb
